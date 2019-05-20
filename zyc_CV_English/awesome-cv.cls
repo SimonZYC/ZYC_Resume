@@ -90,7 +90,7 @@
   pdfkeywords={}
 }
 \RequirePackage{xeCJK}
-\setCJKmainfont[BoldFont={黑体-简}, ItalicFont={楷体-简}]{SimSun}
+\setCJKmainfont[BoldFont={SimHei}, ItalicFont={KaiTi}]{SimSun}
 %请根据自己电脑上的字体名称修改
 
 %-------------------------------------------------------------------------------
